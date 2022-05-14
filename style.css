@@ -21,9 +21,13 @@ body{
     flex-direction: column;
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
-    width: 20vw;
+    width: 300px;
     border-radius: 20px;
 }
+
+@media only screen and (max-width: 760) {
+
+  }
 
 img{
     border-radius: 10px;
